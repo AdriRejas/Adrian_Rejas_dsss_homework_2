@@ -1,0 +1,5 @@
+# Requirements
+
+libraries random and unittest 
+
+Git installed
